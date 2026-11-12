@@ -4,8 +4,7 @@
 
 ## روابط الدورة
 
-- فيديو YouTube: https://www.youtube.com/watch?v=py4xUWniAs0
-
+- 🎥 فيديو YouTube: [شاهد الكورس كاملاً](https://youtu.be/py4xUWniAs0)
 ## محتوى الدورة
 
 | الوقت | المحتوى |
